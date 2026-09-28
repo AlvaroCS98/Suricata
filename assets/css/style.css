@@ -1,0 +1,65 @@
+
+body{
+  font-family: "Open Sans", sans-serif;
+ }
+ a{
+   text-decoration: none;
+ }
+ 
+ h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+h3{
+   font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+
+}
+
+i{
+   font-size: 300%;
+}
+
+footer {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-nav .nav-link{
+    color: white;
+}
+
+ .pink{
+    background-color: #e83e8c !important;
+ }
+ 
+ .imgde{
+   margin-left: 20%;
+ }
+ .textde{
+   margin-left: 70%;
+ }
+ .imgfooter{
+    height: 200px;
+  object-fit: cover;
+  padding: 50px;
+ }
+
+
+
+ 
